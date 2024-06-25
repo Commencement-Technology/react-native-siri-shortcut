@@ -38,6 +38,6 @@
   },
   "devDependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.4"
+    "react-native": "0.69.12"
   }
 }
